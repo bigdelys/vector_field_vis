@@ -1,6 +1,10 @@
 # VFV Toolbox
 2D Vector Field Visualization using Linear Integral Convolutions
 
+<div align="center">
+  <img src="/vectorFieldSample.jpg" width="90%">
+</div>
+
 VFV toolbox enables spotting the intricate details of vector fields. It uses Fast LIC method to produce texture and employs histogram determination methods to increase the contrast of output images. The toolbox provides a complete set of commands to generate LIC images and animations. The tools are arranged in a graphical user interface (GUI) for exploring vector fields with zooming capabilities.
 
 ## Requirements
